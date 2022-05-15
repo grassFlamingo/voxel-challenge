@@ -1,4 +1,4 @@
-from scene import Scene
+from scene_GUI import Scene
 import taichi as ti
 from taichi.math import *
 
